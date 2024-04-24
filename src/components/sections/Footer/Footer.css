@@ -1,0 +1,10 @@
+.footer{
+    background-image:url("../../../assets/top-left-bg.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    height:10rem;
+}
+.FIcon{
+    color:white;
+}

@@ -1,0 +1,23 @@
+.ourchef-item{
+    border:1px solid rgb(161, 161, 161);
+    flex:1 25%;
+    margin:20px;
+    border-radius:5px;
+    padding:5px;
+}
+.card-header{
+    padding:15px;
+}
+.card-img{
+    padding:10px;
+}
+.img{
+    width:100%;
+    height:auto;
+}
+.card-header {
+    text-align: center;
+}
+.card-header h5{
+    font-weight: 900;
+}

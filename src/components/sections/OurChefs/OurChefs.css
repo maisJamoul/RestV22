@@ -1,0 +1,21 @@
+.section-ourChefs{
+    margin-top: 50px;
+}
+.ourChefsHeader{
+    text-align: center;
+}
+.ourChefsHeader span{
+    color:red;
+    font-weight:300;
+}
+.ourChefs-items{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom:50px;
+}
+.ourChefs-items{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
